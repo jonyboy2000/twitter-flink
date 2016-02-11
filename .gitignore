@@ -2,6 +2,9 @@
 *.log
 .idea
 
+# secret twitter auth configuration
+config/twitter
+
 # sbt specific
 .cache
 .history
